@@ -6,9 +6,9 @@
  <hr>
  
  ## **My Projects:** <br>
- Pet Game Application |[Pet Game](https://github.com/Bcharlotin1/JavascriptProject)<br>
- Game Wiki App CMS | [Game Wiki](https://github.com/Bcharlotin1/Rails-App)<br>
- Social Media Site |[Social Site](https://github.com/Bcharlotin1/sinatra_web_app_1)
+ Pet Game Application |[Pet Game Repo](https://github.com/Bcharlotin1/JavascriptProject) | [Demo](https://youtu.be/LW1CQ7nSxpA)<br>
+ Game Wiki App CMS | [Game Wiki Repo](https://github.com/Bcharlotin1/Rails-App) | [Demo](https://youtu.be/6pGsCYlRyP4)<br>
+ Social Media Site |[Social Site Repo](https://github.com/Bcharlotin1/sinatra_web_app_1) | [Demo](https://youtu.be/J0HVgkrpPIM)
  <hr>
  
 ### **Languages**<br>
