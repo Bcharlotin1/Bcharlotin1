@@ -1,7 +1,8 @@
-![Colorful Geometric Google Classroom Header (1)](https://user-images.githubusercontent.com/75501648/143926285-a9b75991-a020-4898-9952-0ef875431b03.png)
+
+![Colorful Geometric Google Classroom Header (2)](https://user-images.githubusercontent.com/75501648/144679566-ea3b02b0-b417-4e7a-a40a-bdda60b11a1d.png)
 
 
- Hi, my name is Bianca, and  I'm a Full Stack Sofware Developer and SEO. Specialist.  After spending a bit of time in the digital marketing industry, I've taken my Tabluea and Google Analytics thinking cap and integrated them with the world of programming. My knowledge of user experience and SEO best practices brings a unique perspective and problem-solving skills to programming.
+ Hi, my name is Bianca, and  I'm a Full-Stack Software Developer and SEO. Specialist.  After spending a bit of time in the digital marketing industry, I've taken my Tabluea and Google Analytics thinking cap and integrated them with the world of programming. My knowledge of user experience and SEO best practices brings a unique perspective and problem-solving skills to programming.
  
  <hr>
  
