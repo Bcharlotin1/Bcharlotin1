@@ -7,6 +7,7 @@
  <hr>
  
  ## **My Projects:** <br>
+ Task Manager App | [Task_Manager Repo](https://github.com/Bcharlotin1/Task-Manger-React-Frontend) | [Demo](https://youtu.be/2kVZ2PCtbQI)
  Pet Game Application |[Pet Game Repo](https://github.com/Bcharlotin1/JavascriptProject) | [Demo](https://youtu.be/LW1CQ7nSxpA)<br>
  Game Wiki App CMS | [Game Wiki Repo](https://github.com/Bcharlotin1/Rails-App) | [Demo](https://youtu.be/6pGsCYlRyP4)<br>
  Social Media Site |[Social Site Repo](https://github.com/Bcharlotin1/sinatra_web_app_1) | [Demo](https://youtu.be/J0HVgkrpPIM)
